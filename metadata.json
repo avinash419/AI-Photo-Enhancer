@@ -1,0 +1,7 @@
+{
+  "name": "AI Spark Enhancer",
+  "description": "High-fidelity AI photo enhancement with one-tap magic. Improve resolution, clarity, and lighting using advanced neural engines.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
